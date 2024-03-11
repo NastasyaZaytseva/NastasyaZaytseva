@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Nastasia Zhivaeva 👋
 
-<!--
-**NastasyaZaytseva/NastasyaZaytseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer based in Berlin, Germany
 
-Here are some ideas to get you started:
+I specialize in creating websites and developing applications using Next.js and React. With a passion for eCommerce, I strive to build seamless, engaging online shopping experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- 🌐 Crafting beautiful and functional web sites
+- 🛍️ Developing robust eCommerce solutions with Next.js and React
+- 📚 Constantly learning about new web technologies and best practices
+
+### Let's Connect
+
+- 📫 How to reach me: [hey@nastasia.dev]
+- 💼 [LinkedIn profile](https://www.linkedin.com/in/nastasya-zhivaeva/)
+- 🐦 [Portfolio](https://www.nastasia.dev/)
+
+Feel free to reach out if you're looking for a collaborator on your next project or just want to connect!
+
