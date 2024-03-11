@@ -12,9 +12,9 @@ I specialize in creating websites and developing applications using Next.js and 
 
 ### Let's Connect
 
-- 📫 How to reach me: [hey@nastasia.dev]
-- 💼 [LinkedIn profile](https://www.linkedin.com/in/nastasya-zhivaeva/)
-- 🐦 [Portfolio](https://www.nastasia.dev/)
+-  How to reach me: hey@nastasia.dev
+-  [LinkedIn profile](https://www.linkedin.com/in/nastasya-zhivaeva/)
+-  [Portfolio](https://www.nastasia.dev/)
 
 Feel free to reach out if you're looking for a collaborator on your next project or just want to connect!
 
